@@ -1,0 +1,23 @@
+
+UNIVERSIDAD DE SAN CARLOS DE GUATEMALA
+FACULTAD DE INGENIERIA
+CIENCIAS Y SISTEMAS
+ARQUITECTURA DE COMPUTADORES Y ENSAMBLADORES 1 A-
+
+PRIMER SEMESTRE 2020
+
+JAVIER ANTONIO ALAVREZ GONZALEZ
+201612383
+
+REPORTE PRACTICA NO.5
+Fecha: 
+02/04/20
+16:20:46
+
+Funcion Original:
+f(x): + 1*x4 + 2*x3 + 3*x2 + 4*x + 5                                             
+Funcion Derivada:
+f'(x): + 4*x3 + 6*x2 + 6*x + 4                                                    
+Funcion Integral:
+F(x): + 1/5*x5 + 2/4*x4 + 3/3*x3 + 4/2*x2 + 5*x                                  + c
+
